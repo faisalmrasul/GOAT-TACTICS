@@ -1,9 +1,3 @@
-
----
-
-## 4. `streamlit_app.py` — FULL FINAL VERSION
-
-```python
 """
 GOAT Tactics: Captains of History
 A turn-based tactical football game built with Streamlit.
